@@ -177,6 +177,6 @@
     drawMatrix(mainCanvas, storedMatrixList[storedActiveFrame]);
    })
    ```
-6. Expirience:  Macros written using VBA at previous job (for 2 years).
+6. Expirience:  Macros written using VBA at previous job.
 7. Education: BSU Faculty of Economics (2015-2019). RSS courses in 2020.
 8. English level: Upper-intermediate. at the previous work, there were a lot of projects in English, since the clients were from abroad. I traveled to America for 2 months under the YLP student exchange program. There was also an advanced English course at the university.
