@@ -7,7 +7,21 @@ body {
     border-bottom: 1px solid gray;
     justify-content: center;
     align-content: center;
+
 }
-ol {
-    border: 1px solid gray;
+.written-by {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    font-style: italic;
+    color: gray;
+    opacity: 70%;
+
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+
 }
